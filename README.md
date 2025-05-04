@@ -34,12 +34,13 @@ To run the chat application locally, follow these steps:
 Here are some screenshots of the chat application:
 
 1. Login Page
-   
+   ![](https://github.com/user-attachments/assets/c4104937-072a-4270-a196-4d0ebeb54219)
+
 2. Chat Page
-- Chatroom ![Chat-2](https://github.com/user-attachments/assets/b8da7f56-5326-4ffe-ad3e-81dc9d0792e8)
+- Chatroom ![](https://github.com/user-attachments/assets/b8da7f56-5326-4ffe-ad3e-81dc9d0792e8)
 
 
-- Private Text ![Chat-1](https://github.com/user-attachments/assets/7f9753df-ee13-488e-a427-a4a2cac8727d)
+- Private Text ![](https://github.com/user-attachments/assets/7f9753df-ee13-488e-a427-a4a2cac8727d)
 
 
 
